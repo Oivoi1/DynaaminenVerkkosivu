@@ -1,0 +1,26 @@
+{
+    "opintojaksot": [
+    {
+    "otsikko": "Dynaaminen Verkkosivu",
+    "laajuus": "5op",
+    "opettaja": {
+        "lastname":"Jouni",
+        "firstname": "Juntunen"
+    },
+    "opiskelija": [
+        {
+        "lastname":"Veeti",
+        "firstname": "Oivo"
+        },
+        {
+        "lastname":"Pauli",
+        "firstname": "Haarnio"
+        },
+        {
+        "lastname":"Riku",
+        "firstname": "Remes"
+        }
+    ]
+    }
+]
+}
